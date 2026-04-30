@@ -1,4 +1,4 @@
-package edu.uade.primerparcial
+package com.example.loveraparcialapps1
 
 import org.junit.Test
 

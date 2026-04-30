@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "primerParcial"
+rootProject.name = "LoveraParcialApps1"
 include(":app")
  
